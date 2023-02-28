@@ -3,7 +3,7 @@
 
 
 ### Get in touch
-<a href="mailto:vanessa.wuerdinger@gmx.de"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/vanessa-wuerdinger"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://vanessa-wuerdinger.de"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logoColor=white"></a> 
+<a href="mailto:vanessa.wuerdinger@gmx.de"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/vanessa-wuerdinger"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://vanessa-wuerdinger.de"><img src="https://img.shields.io/badge/portfolio-fffcf3?style=for-the-badge&logoColor=white"></a> 
 
 ### Languages and tools:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Angular-d2002f?style=for-the-badge&logo=angular&logoColor=ffffff"> <img src="https://img.shields.io/badge/HTML5-d84924?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3190c9?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
