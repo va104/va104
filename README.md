@@ -10,7 +10,7 @@
 ...and many others
 
 ### I'm currently learning
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> 
 
 ### My favorite project repos
 * <a href="https://github.com/va104/join">Join</a> - Task manager inspired by the Kanban system
